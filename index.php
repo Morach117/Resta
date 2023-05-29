@@ -1,6 +1,6 @@
 <?php
-$numero1 = 5;
-$numero2 = 3;
+$numero1 = 500;
+$numero2 = 50;
 
 $resultado = $numero1 - $numero2;
 
